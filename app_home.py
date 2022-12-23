@@ -7,7 +7,7 @@ def run_home_app():
     st.text('https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows')
 
     st.title('')
-    st.title('👑 Top 1000 Movies by IMDB Rating')
+    st.title('👑 Top 1000 Movies by IMDB Rating dkdjkdjdjdjdjdj')
     st.write('(상위 1000개의 영화 중 데이터가 미흡한 영화는 제외되었습니다.)')
     st.title('')
     st.subheader('IMDB 공식 유튜브 최신 영상')
