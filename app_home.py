@@ -2,9 +2,9 @@ import streamlit as st
 
 def run_home_app():
     st.subheader('해당 사이트는 IMDB의 평가를 기반으로')
-    st.subheader('역대 최고의 영화에 대한 정보를 제공합니다')
+    st.subheader('역대 최고의 영화에 대한 정보를 제공합니다.')
     st.title('')
-    st.title('Top 1000 Movies by IMDB Rating')
+    st.title('👑 Top 1000 Movies by IMDB Rating')
     st.write('(상위 1000개의 영화 중 데이터가 미흡한 영화는 제외되었습니다.)')
     st.title('')
     st.subheader('IMDB 공식 유튜브 최신 영상')
