@@ -20,7 +20,7 @@ def main() :
             "nav-link-selected": {"background-color": "#28568E"},
         }
         )
-
+    
     
     if choose == 'Home':
         run_home_app()

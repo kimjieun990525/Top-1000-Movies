@@ -78,13 +78,22 @@ def run_eda_app():
  
     st.title('')
     st.title('')
-    st.header('▶ Top.1000 영화의 장르 비중')
+    st.header('▶ Top.1000 명작 영화의 장르 비중')
     st.write('영화에서 어떤 장르의 비중이 높은지 그래프를 통해 확인할 수 있습니다.')
     st.write('대부분의 영화에 Drama 요소가 많이 포함되어 있는 것을 알 수 있습니다.')
     st.image('genre_bar2.png')
     st.write('1위 : Drama / 2위 : Adventure / 3위 : Comedy / 4위 : Crime / 5위 : Action')
 
+    st.title('')
+    st.header('▶ Top.1000 명작 영화의 개봉년도')
+    st.text("'명작이 많이 탄생한 년도를 확인할 수 있다.")
+    Year_count = pd.DataFrame()
+    Year_count['Year'] = df['Released_Year'].value_counts().index
+    Year_count['Count'] = df['Released_Year'].value_counts().values
+    Year_count.sort_values('Year', inplace=True)
+    Year_count.set_index('Year', inplace=True)
 
+    st.line_chart(Year_count)
 
 
 # ---------------------------------------------------------------------------
