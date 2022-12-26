@@ -1,7 +1,7 @@
 import streamlit as st
 
 def run_home_app():
-    st.subheader('해당 사이트는 IMDB의 평가를 기반으로')
+    st.subheader('해당 사이트는 IMDB의 평가를 기반으로 ')
     st.subheader('역대 최고의 영화에 대한 정보를 제공합니다.')
     st.text('데이터 출처 :')
     st.text('https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows')
