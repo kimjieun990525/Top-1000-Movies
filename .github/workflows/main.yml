@@ -17,6 +17,6 @@ jobs:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USER }}
           script: |
-            cd project-1_movie_top_1000
+            cd project1_movie_top_1000
             git pull
 
