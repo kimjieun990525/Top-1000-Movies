@@ -38,7 +38,7 @@ http://ec2-43-201-72-88.ap-northeast-2.compute.amazonaws.com:8501/
 https://www.kaggle.com/  
 'kaggle'이라는 사이트에서 데이터를 찾았습니다.  
 영화 평점과 관련한 데이터 중에서 IMDb라는 공신력 있는 사이트에서 집계된 데이터를 선정했습니다.  
-**선정한 데이터 다운로드**
+**선정 데이터 : **
 https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
 
 #####  
