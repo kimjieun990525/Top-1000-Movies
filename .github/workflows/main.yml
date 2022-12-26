@@ -19,3 +19,4 @@ jobs:
           script: |
             cd project-1_movie_top_1000
             git pull
+
