@@ -1,7 +1,7 @@
 # 웹 대시보드 개발 프로젝트  
 #
 #  👑 Top 1000 Movies by IMDB Rating 👑
-###
+#
 # Preview
 ![preview1](https://user-images.githubusercontent.com/120348534/209481982-86104ea9-07cc-4f8f-b87e-620d5bbad9e5.PNG)
 ![preview2](https://user-images.githubusercontent.com/120348534/209481986-43e5c1e6-7387-4e3b-ba67-26087b8e08ab.PNG)
