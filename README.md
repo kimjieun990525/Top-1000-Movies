@@ -33,6 +33,7 @@ http://ec2-43-201-72-88.ap-northeast-2.compute.amazonaws.com:8501/
   
 ###  
 ###  
+#
 ### 1. 데이터 출처  
 https://www.kaggle.com/  
 'kaggle'이라는 사이트에서 데이터를 찾았습니다.  
@@ -40,7 +41,7 @@ https://www.kaggle.com/
 
 #####  
 #####  
-
+#
 ### 2. 데이터 분석  
 
 **'jupyter notebook'** 을 이용하여 데이터를 분석했습니다.  
@@ -215,7 +216,7 @@ plt.show()
 #####  
 #####  
 
-
+#
 ### 3. 웹 대시보드 개발  
 
 #####  
