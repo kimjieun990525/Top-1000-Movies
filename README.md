@@ -1,8 +1,5 @@
 # 웹 대시보드 개발 프로젝트  
-###
-###
-###
-###
+#
 #  👑 Top 1000 Movies by IMDB Rating 👑
 ###
 # Preview
