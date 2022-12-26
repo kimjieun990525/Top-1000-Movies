@@ -132,7 +132,7 @@ Genre_list = list(set(임시리스트))
  'History',
  'Music',
  'Drama',
- 'Fantasy']`
+ 'Fantasy']`  
 이렇게 장르의 종류는 21개로 구분되었습니다.  
 
 #####  
