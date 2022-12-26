@@ -56,8 +56,15 @@ def run_eda_app():
     Year_count['Count'] = df['Released_Year'].value_counts().values
     Year_count.sort_values('Year', inplace=True)
     Year_count.set_index('Year', inplace=True)
-
     st.line_chart(Year_count)
+
+    st.title('')
+    st.title('')
+    st.header('▶ Top.1000 영화의 평점 범위')
+    st.write("** 입력 가능한 평점 : 1.0 ~ 10.0")
+    st.write("* top.1000으로 선정된 영화의 최하위 평점 : 7.9")
+    st.write("* top.1000으로 선정된 영화의 최상위 평점 : 9.3")
+
 
 
 # ---------------------------------------------------------------------------
