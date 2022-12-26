@@ -17,9 +17,8 @@
 #
 #
 # 웹대시보드 URL
-
 http://ec2-43-201-72-88.ap-northeast-2.compute.amazonaws.com:8501/
-
+#
 # Preview
 ![preview1](https://user-images.githubusercontent.com/120348534/209481982-86104ea9-07cc-4f8f-b87e-620d5bbad9e5.PNG)
 ![preview2](https://user-images.githubusercontent.com/120348534/209481986-43e5c1e6-7387-4e3b-ba67-26087b8e08ab.PNG)
