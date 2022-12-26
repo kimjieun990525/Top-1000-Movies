@@ -87,6 +87,10 @@ year = sorted(year)
 
 **(4) 영화 장르 구분**
 ![2](https://user-images.githubusercontent.com/120348534/209503391-f63bda20-4884-4356-85ba-e5c0d2033c43.PNG)
+
+
+
+
 이와 같이 영화별로 장르가 1개씩이 아닌 여러개가 섞여 있었습니다. 이 데이터에서는 몇 종류의 장르 값이 있는지 구분하기가 어려웠습니다. 그래서 일단 값을 분리하여 장르의 유니크 값을 구했습니다.
 ```python
 `Genre = df['Genre'].unique()`
