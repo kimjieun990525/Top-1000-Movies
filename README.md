@@ -9,6 +9,9 @@
 #
 #
 #
+### 🔷 웹대시보드 URL
+http://ec2-43-201-72-88.ap-northeast-2.compute.amazonaws.com:8501/
+
 ### 🔷 사용 언어
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
